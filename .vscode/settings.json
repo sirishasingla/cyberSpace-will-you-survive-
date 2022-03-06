@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./audio",
+        "./ques"
+    ]
+}
